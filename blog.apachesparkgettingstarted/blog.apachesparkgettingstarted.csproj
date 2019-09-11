@@ -10,12 +10,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <None Update="data\lyrics.csv">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </None>
-      <None Update="data\songdata.csv">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </None>
       <None Update="data\seattle-cultural-space-inventory.csv">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </None>
