@@ -1,4 +1,4 @@
-﻿using Microsoft.Spark.Sql;
+﻿﻿using Microsoft.Spark.Sql;
 
 
 namespace blog.apachesparkgettingstarted
